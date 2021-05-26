@@ -1,4 +1,4 @@
-# Starter Application for the WAIV stack (WindiCSS/ASP.NET Core MVC/Inertia.js/Vue.js)
+# Starter Application for the WAIV stack (WindiCSS/ASP.NET Core MVC/Inertia.js/Vue.js) 👋
 
 ## Quick Start
 1. `dotnet restore`
