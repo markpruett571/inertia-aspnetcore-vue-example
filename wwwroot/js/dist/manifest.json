@@ -1,0 +1,13 @@
+{
+  "App/app.js": {
+    "file": "assets/app.73b0b57c.js",
+    "src": "App/app.js",
+    "isEntry": true,
+    "imports": [
+      "_vendor.1f116acf.js"
+    ]
+  },
+  "_vendor.1f116acf.js": {
+    "file": "assets/vendor.1f116acf.js"
+  }
+}

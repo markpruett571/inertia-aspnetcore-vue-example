@@ -1,0 +1,17 @@
+@using InertiaAdapter
+@inject inertia_aspnetcore_vue_example.Models.ViteService ViteService
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Inertia</title>
+  </head>
+  <body>
+    @Inertia.Html(Model)
+
+    <!-- reference your js file. -->
+    @ViteService.ViteAssets()
+  </body>
+</html>

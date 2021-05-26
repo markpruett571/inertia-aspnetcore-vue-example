@@ -1,0 +1,9 @@
+.vscode
+
+bin/
+node_modules/
+obj/
+public/
+
+appsettings.json
+appsettings.Development.json

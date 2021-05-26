@@ -1,0 +1,24 @@
+{
+  "App/app.js": {
+    "file": "assets/app.518b6c61.js",
+    "src": "App/app.js",
+    "isEntry": true,
+    "imports": [
+      "_vendor.3bdf2f3d.js"
+    ],
+    "dynamicImports": [
+      "App/Pages/App.vue"
+    ]
+  },
+  "_vendor.3bdf2f3d.js": {
+    "file": "assets/vendor.3bdf2f3d.js"
+  },
+  "App/Pages/App.vue": {
+    "file": "assets/App.ea3224b5.js",
+    "src": "App/Pages/App.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.3bdf2f3d.js"
+    ]
+  }
+}

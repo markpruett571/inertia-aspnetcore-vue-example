@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>inertia_aspnetcore_vue_example</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="INERTIAJS.ASPNETCORE.ADAPTER" Version="0.0.4" />
+  </ItemGroup>
+
+</Project>
