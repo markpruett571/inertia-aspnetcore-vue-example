@@ -5,7 +5,7 @@ using System.Net;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Html;
 
-namespace inertia_aspnetcore_vue_example.Models
+namespace waiv_starter.Models
 {
     public class ViteService
     {

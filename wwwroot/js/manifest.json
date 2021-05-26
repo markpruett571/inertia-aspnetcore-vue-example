@@ -1,24 +1,24 @@
 {
   "App/app.js": {
-    "file": "assets/app.518b6c61.js",
+    "file": "assets/app.f42a5abf.js",
     "src": "App/app.js",
     "isEntry": true,
     "imports": [
-      "_vendor.3bdf2f3d.js"
+      "_vendor.478469a8.js"
     ],
     "dynamicImports": [
       "App/Pages/App.vue"
     ]
   },
-  "_vendor.3bdf2f3d.js": {
-    "file": "assets/vendor.3bdf2f3d.js"
+  "_vendor.478469a8.js": {
+    "file": "assets/vendor.478469a8.js"
   },
   "App/Pages/App.vue": {
-    "file": "assets/App.ea3224b5.js",
+    "file": "assets/App.0dc2344c.js",
     "src": "App/Pages/App.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_vendor.3bdf2f3d.js"
+      "_vendor.478469a8.js"
     ]
   }
 }

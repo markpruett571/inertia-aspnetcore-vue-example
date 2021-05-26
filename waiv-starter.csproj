@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>inertia_aspnetcore_vue_example</RootNamespace>
+    <RootNamespace>waiv-starter</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

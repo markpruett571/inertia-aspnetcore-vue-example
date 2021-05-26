@@ -1,6 +1,6 @@
 using System;
 
-namespace inertia_aspnetcore_vue_example.Models
+namespace waiv_starter.Models
 {
     public class ErrorViewModel
     {

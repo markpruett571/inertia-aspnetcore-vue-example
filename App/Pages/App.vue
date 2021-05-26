@@ -8,8 +8,11 @@
 
 <script>
 import { defineComponent } from 'vue';
+import Layout from '@/Shared/Layout.vue';
+
 export default defineComponent({
   name: 'App',
+  layout: Layout,
 
   props: {
     id: Number

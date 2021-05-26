@@ -1,4 +1,4 @@
-using inertia_aspnetcore_vue_example.Models;
+using waiv_starter.Models;
 using InertiaAdapter.Extensions;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -6,7 +6,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
-namespace inertia_aspnetcore_vue_example
+namespace waiv_starter
 {
     public class Startup
     {

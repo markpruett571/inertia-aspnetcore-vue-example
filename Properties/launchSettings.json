@@ -14,7 +14,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "inertia_aspnetcore_vue_example": {
+    "waiv-starter": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "launchBrowser": true,

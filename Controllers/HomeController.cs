@@ -1,13 +1,13 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using inertia_aspnetcore_vue_example.Models;
+using waiv_starter.Models;
 using InertiaAdapter;
 using System.Net;
 using Microsoft.AspNetCore.Hosting;
 using System;
 
-namespace inertia_aspnetcore_vue_example.Controllers
+namespace waiv_starter.Controllers
 {
     public class HomeController : Controller
     {
