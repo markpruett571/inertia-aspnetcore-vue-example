@@ -1,9 +1,11 @@
 import vue from '@vitejs/plugin-vue';
+import WindiCSS from 'vite-plugin-windicss';
 const { resolve } = require('path');
 
 export default ({ command }) => ({
   plugins: [
     vue(),
+    WindiCSS()
   ],
 
   build: {

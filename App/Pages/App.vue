@@ -1,6 +1,8 @@
 <template>
-  <div>
-    Hello from Vue. ID: {{ id }}
+  <div class="container">
+    <span class="text-red-500 text-2xl">
+      Hello from Vue. ID (from controller): {{ id }}
+    </span>
   </div>
 </template>
 
